@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "element-ui": "^2.13.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "mint-ui": "^2.2.13",
     "swiper": "^5.3.6",
     "vue": "^2.5.2",
